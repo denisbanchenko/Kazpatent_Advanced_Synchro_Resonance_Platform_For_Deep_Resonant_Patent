@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Keep folder structure
+!docs/applications/.gitkeep
+!docs/descriptions/.gitkeep
+!docs/claims/.gitkeep
+!docs/abstracts/.gitkeep
+!docs/drawings/.gitkeep
+!correspondence/incoming/.gitkeep
+!correspondence/outgoing/.gitkeep
+!payment-receipts/.gitkeep
+!translations/.gitkeep
+!legal/.gitkeep
+!INBOX/.gitkeep
+!archive/.gitkeep
