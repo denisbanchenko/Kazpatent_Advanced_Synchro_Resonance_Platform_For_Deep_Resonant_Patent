@@ -35,11 +35,12 @@
 
 | Category / Категория | Total / Всего | Uploaded / Загружено | Pending / Ожидается |
 |---------------------|---------------|---------------------|---------------------|
-| **Application Documents / Документы заявки** | 5 | 5 | 0 |
+| **Application Documents / Документы заявки** | 6 | 6 | 0 |
+| **Scientific Research Papers / Научные Статьи** | 3 | 3 | 0 |
 | **Incoming Correspondence / Входящие** | 0 | 0 | 0 |
 | **Outgoing Correspondence / Исходящие** | 0 | 0 | 0 |
 | **Payment Receipts / Квитанции** | 1 | 1 | 0 |
-| **TOTAL / ИТОГО** | **6** | **6** | **0** |
+| **TOTAL / ИТОГО** | **10** | **10** | **0** |
 
 ---
 
@@ -56,7 +57,11 @@ Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/
 │   ├── descriptions/          # Descriptions of invention / Описания
 │   ├── claims/                # Claims / Формула изобретения
 │   ├── abstracts/             # Abstracts / Рефераты
-│   └── drawings/              # Drawings/Figures / Чертежи
+│   ├── drawings/              # Drawings/Figures / Чертежи
+│   ├── SCIENTIFIC_RESEARCH_DATABASE.md  # Scientific papers database / База научных статей
+│   ├── 2024-03-15_ScientificArticle_Banchenko_Mnemonic_Dream_Synchronization_Method.pdf
+│   ├── 2024-08-25_ScientificArticle_Grivtsova_Stress_Management_Lucid_Dreams.pdf
+│   └── 2025-10-25_ScientificArticle_BCI_NeuralInterfaces_ASRP_ResearchGroup.pdf
 │
 ├── 📁 correspondence/
 │   ├── incoming/              # From Kazpatent / От Казпатент

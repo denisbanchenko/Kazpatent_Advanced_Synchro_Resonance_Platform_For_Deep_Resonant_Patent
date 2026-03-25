@@ -92,6 +92,34 @@
 
 ---
 
+## 🔬 Scientific Research Foundation / Научная Исследовательская База
+
+**EN:** This patent is based on extensive scientific research in inter-brain synchronization, BCI systems, and neurointegration technologies.
+
+**RU:** Этот патент основан на обширных научных исследованиях в области межмозговой синхронизации, систем BCI и технологий нейроинтеграции.
+
+### 📚 Key Scientific Papers / Ключевые Научные Статьи
+
+| # | Paper / Статья | Year / Год | Link / Ссылка | Relevance / Отношение |
+|---|---------------|-----------|--------------|----------------------|
+| 1 | **Banchenko's Mnemonic Dream Synchronization Method** | 2024 | [📄 PDF](docs/2024-03-15_ScientificArticle_Banchenko_Mnemonic_Dream_Synchronization_Method.pdf) | Foundational method / Фундаментальный метод |
+| 2 | **Grivtsova Stress Management Method** | 2024 | [📄 PDF](docs/2024-08-25_ScientificArticle_Grivtsova_Stress_Management_Lucid_Dreams.pdf) | Preparation protocols / Протоколы подготовки |
+| 3 | **BCI and Neural Interfaces Review** | 2025 | [📄 PDF](docs/2025-10-25_ScientificArticle_BCI_NeuralInterfaces_ASRP_ResearchGroup.pdf) | Hardware foundation / Аппаратная основа |
+
+### 🔬 Inter-Brain Synchronization Research / Исследования Межмозговой Синхронизации
+
+| Category / Категория | Key Studies / Ключевые Исследования | Link / Ссылка |
+|---------------------|-----------------------------------|--------------|
+| **Core Studies / Основные Исследования** | Nature Scientific Reports (2017), NeuroImage (2017), Brain & Cognition (2022) | [📊 Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
+| **Teams & Cooperation / Команды и Сотрудничество** | SCAN (2016), NeuroImage (2019) | [📊 Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
+| **Gaming & Collective Behavior / Игры и Коллективное Поведение** | Brain & Cognition (2022) | [📊 Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
+| **Meditation & Synchrony / Медитация и Синхрония** | Neuroscience Letters (2023) | [📊 Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
+| **Meta-Analyses / Мета-Анализы** | PMC (2022), PubMed (2024) | [📊 Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
+
+**Full Database / Полная База:** [`docs/SCIENTIFIC_RESEARCH_DATABASE.md`](docs/SCIENTIFIC_RESEARCH_DATABASE.md)
+
+---
+
 ## 📋 Document Upload Status / Статус загрузки документов
 
 ### ✅ Application Documents (Submitted 24.03.2026) / Документы заявки (Поданы 24.03.2026)
