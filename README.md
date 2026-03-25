@@ -1,12 +1,12 @@
-# 🧠 ASRP.drift / ПНИРдрифт
+# 🧠 ASRP.drift / ПНИР.дрифт
 
-> **English:** Advanced Synchro Resonance Platform for Deep Resonant Integration of Fielded Thought  
-> **Русский:** Платформа Нейроинтеграционного Изоморфного Резонанса для Резонансной Интегративной Функциональной Транскоммуникации  
+> **English:** Advanced Synchro Resonance Platform for Deep Resonant Integration of Fielded Thought
+> **Русский:** Платформа Нейроинтеграционного Изоморфного Резонанса для Резонансной Интегративной Функциональной Транскоммуникации
 > **Қазақша:** Платформа Нейроинтеграциялық Изоморфтық Резонанс Динамикалық Резонанстық Ішкі Функционалдық Трансформациясы
 
 **Abbreviation / Сокращение:**
 - **EN:** ASRP.drift (Advanced Synchro Resonance Platform)
-- **RU:** ПНИРдрифт (Платформа Нейроинтеграционного Изоморфного Резонанса)
+- **RU:** ПНИР.дрифт (Платформа Нейроинтеграционного Изоморфного Резонанса)
 - **KZ:** ПНИИР (Платформа Нейроинтеграциялық Изоморфтық Резонанс)
 
 ---
@@ -37,7 +37,7 @@
 | **Russian / Русский** | ПЛАТФОРМА НЕЙРОИНТЕГРАЦИОННОГО ИЗОМОРФНОГО РЕЗОНАНСА ДЛЯ РЕЗОНАНСНОЙ ИНТЕГРАТИВНОЙ ФУНКЦИОНАЛЬНОЙ ТРАНСКОМУНИКАЦИИ |
 | **Kazakh / Қазақша** | ПЛАТФОРМА НЕЙРОИНТЕГРАЦИЯЛЫҚ ИЗОМОРФТЫҚ РЕЗОНАНС ДИНАМИКАЛЫҚ РЕЗОНАНСТЫҚ ІШКІ ФУНКЦИОНАЛДЫҚ ТРАНСФОРМАЦИЯСЫ |
 | **English / Английский** | ADVANCED SYNCHRO RESONANCE PLATFORM FOR DEEP RESONANT INTEGRATION OF FIELDED THOUGHT |
-| **Short (RU) / Краткое (РУ)** | ПНИРдрифт |
+| **Short (RU) / Краткое (РУ)** | ПНИР.дрифт |
 | **Short (EN) / Краткое (EN)** | ASRP.drift |
 
 ---
@@ -96,14 +96,14 @@
 
 ### ✅ Application Documents (Submitted 24.03.2026) / Документы заявки (Поданы 24.03.2026)
 
-| # | Document / Документ | Pages / Страниц | Language / Язык | Status / Статус | Link / Ссылка |
-|---|--------------------|-----------------|-----------------|-----------------|---------------|
-| 1 | Application Form / Заявление | 4 | RU/KZ / РУ/КЗ | ✅ Filed / Подано | [📄 PDF](docs/applications/) |
-| 2 | Description / Описание | 4 | Russian / Русский | ✅ Filed / Подано | [📄 DOCX](docs/descriptions/) |
-| 3 | Claims / Формула | 3 | Russian / Русский | ✅ Filed / Подано | [📄 DOCX](docs/claims/) |
-| 4 | Abstract / Реферат | 1 | Russian / Русский | ✅ Filed / Подано | [📄 DOCX](docs/abstracts/) |
-| 5 | Drawings / Чертежи | 1 | — / — | ✅ Filed / Подано | [📄 PDF](docs/drawings/) |
-| 6 | Filing Fee Receipt / Квитанция пошлины | 1 | — / — | ✅ Paid / Оплачено | [📄 PDF](payment-receipts/) |
+| # | Document / Документ | Pages / Страниц | Language / Язык | Status / Статус | Direct Link / Прямая Ссылка |
+|---|--------------------|-----------------|-----------------|-----------------|----------------------------|
+| 1 | Application Form / Заявление | 4 | RU/KZ / РУ/КЗ | ✅ Filed / Подано | [📄 PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/applications/2026-03-24_Application_KZ413554_v1_Original_RU.pdf) |
+| 2 | Description / Описание | 4 | Russian / Русский | ✅ Filed / Подано | [📄 DOCX](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/descriptions/2026-03-24_Description_KZ413554_v1_Original_RU.docx) |
+| 3 | Claims / Формула | 3 | Russian / Русский | ✅ Filed / Подано | [📄 DOCX](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/claims/2026-03-24_Claims_KZ413554_v1_Original_RU.docx) |
+| 4 | Abstract / Реферат | 1 | Russian / Русский | ✅ Filed / Подано | [📄 DOCX](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/abstracts/2026-03-24_Abstract_KZ413554_v1_Original_RU.docx) |
+| 5 | Drawings / Чертежи | 1 | — / — | ✅ Filed / Подано | [📄 PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/drawings/2026-03-24_Figure1_KZ413554_v1.pdf) |
+| 6 | Filing Fee Receipt / Квитанция пошлины | 1 | — / — | ✅ Paid / Оплачено | [📄 PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/payment-receipts/2025-11-12_Payment_KZ413554_FilingFee_6096.16KZT_EPAY944861.pdf) |
 
 ---
 
@@ -190,9 +190,9 @@ sequenceDiagram
 
 ## 💰 Payment Summary / Сводка по платежам
 
-| # | Date / Дата | Payment Type / Тип Платежа | Amount / Сумма | Status / Статус | Link / Ссылка |
-|---|-------------|---------------------------|----------------|-----------------|---------------|
-| 1 | 12.11.2025 | Filing Fee / Пошлина за Подачу | 6,096.16 KZT | ✅ Paid / Оплачено | [📄 PDF](payment-receipts/) |
+| # | Date / Дата | Payment Type / Тип Платежа | Amount / Сумма | Status / Статус | Direct Link / Прямая Ссылка |
+|---|-------------|---------------------------|----------------|-----------------|----------------------------|
+| 1 | 12.11.2025 | Filing Fee / Пошлина за Подачу | 6,096.16 KZT | ✅ Paid / Оплачено | [📄 PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/payment-receipts/2025-11-12_Payment_KZ413554_FilingFee_6096.16KZT_EPAY944861.pdf) |
 | **TOTAL / ВСЕГО** | — | **Total Paid / Всего Оплачено** | **6,096.16 KZT** | ✅ **Complete / Завершено** | — |
 
 ---
