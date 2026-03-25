@@ -193,19 +193,46 @@ sequenceDiagram
 
 <div align="center">
 
-### ASRP Patent Portfolio / Патентный Портфель ASRP
+### 🧠 ASRP Neurointegration Platform Ecosystem / Экосистема Платформы Нейроинтеграции ASRP
 
 </div>
 
-| Repository / Репозиторий | Application / Заявка | Status / Статус |
-|-------------------------|---------------------|-----------------|
-| **Fractal HFS** | KZ 2025/1095.1 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
-| **Biophotonic** | KZ 2025/1097.1 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent) |
-| **GFS** | KZ 2024/412106.1 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Global_Forecasting_System_Patent) |
-| **ASRP.art** | KZ 380648 + PCT 412362 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
-| **Inspira-X** | KZ 2025/0914.1 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) |
+**EN:** ASRP.drift is the **core neurointegration platform** that unifies multiple specialized applications including Inspira-X and other neurophysiological analysis systems.
 
-### ASRP Research Repositories / Исследовательские Репозитории ASRP
+**RU:** ASRP.drift — это **основная платформа нейроинтеграции**, которая объединяет множество специализированных приложений, включая Inspira-X и другие системы нейрофизиологического анализа.
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    ASRP.drift (KZ 413554)                       │
+│         Core Neurointegration Platform /                        │
+│         Основная Платформа Нейроинтеграции                      │
+│                                                                 │
+│  ┌──────────────────────┐    ┌──────────────────────┐          │
+│  │   Inspira-X          │    │   Other Neuro        │          │
+│  │   (KZ 2025/0914.1)   │    │   Applications       │          │
+│  │   Respiratory        │    │   (Future)           │          │
+│  │   Analysis           │    │                      │          │
+│  │   ⊂ DRIFT SYSTEM     │    │   ⊂ DRIFT SYSTEM     │          │
+│  └──────────────────────┘    └──────────────────────┘          │
+│                                                                 │
+│  Foundation: Inter-brain synchronization, BCI,                  │
+│  neurofeedback, dream synchronization                           │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+| Repository / Репозиторий | Application / Заявка | Relationship / Отношение | Status / Статус |
+|-------------------------|---------------------|-------------------------|-----------------|
+| **🫁 Inspira-X** | KZ 2025/0914.1 | **⊂ PART OF DRIFT SYSTEM** / **⊂ ЧАСТЬ СИСТЕМЫ DRIFT** | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) |
+| **Fractal HFS** | KZ 2025/1095.1 | Related hyperbolic field technology / Связанная технология гиперболических полей | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
+| **Biophotonic** | KZ 2025/1097.1 | Related optical neurodiagnostic / Связанная оптическая нейродиагностика | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent) |
+| **GFS** | KZ 2024/412106.1 | Related forecasting system / Связанная система прогнозирования | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Global_Forecasting_System_Patent) |
+| **ASRP.art** | KZ 380648 + PCT 412362 | Related neuro-art analysis / Связанный нейро-арт анализ | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
+
+<div align="center">
+
+### 📚 Scientific Research Repositories / Научные Исследовательские Репозитории
+
+</div>
 
 | Repository / Репозиторий | Purpose / Назначение | Link / Ссылка |
 |-------------------------|---------------------|---------------|
