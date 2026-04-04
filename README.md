@@ -1,4 +1,4 @@
-# 🧠 ASRP.drift / ПНИР.дрифт
+# ASRP.drift / ПНИР.дрифт
 
 > **English:** Advanced Synchro Resonance Platform for Deep Resonant Integration of Fielded Thought
 > **Русский:** Платформа Нейроинтеграционного Изоморфного Резонанса для Резонансной Интегративной Функциональной Транскоммуникации
@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 Repository Overview / Обзор репозитория
+## Repository Overview / Обзор репозитория
 
 | Metric / Метрика | Value / Значение |
 |------------------|-----------------|
@@ -19,16 +19,103 @@
 | **Incoming № / Входящий №** | 2026-20523 |
 | **Barcode / Штрихкод** | 3905481 |
 | **Filing Date / Дата подачи** | 24 March 2026 / 24 марта 2026 |
-| **Status / Статус** | 🟡 Registration Pending / Ожидает регистрации |
+| **Status / Статус** | Registration Pending / Ожидает регистрации |
 | **Patent Office / Патентное ведомство** | Kazpatent (NIIS, Ministry of Justice of RK) / Казпатент (НИИС, МЮ РК) |
 | **Country / Страна** | Republic of Kazakhstan / Республика Казахстан |
-| **Inventors / Изобретатели** | 3 (🇰🇿 KZ, 🇲🇩 MD, 🇩🇪 DE) |
+| **Inventors / Изобретатели** | 3 (KZ, MD, DE) |
 | **IPC Classification / МПК** | A61B 5/00 (Medical Diagnosis / Медицинская Диагностика), G06N 3/00 (Neural Networks / Нейронные Сети) |
 | **Language / Язык** | Russian (Official), English (Translation) / Русский (Официальный), Английский (Перевод) |
 
 ---
 
-## 🎯 Invention Details / Детали изобретения
+## Quick Navigation / Быстрая навигация
+
+| Section / Раздел | Description / Описание |
+|------------------|------------------------|
+| [Invention Details / Детали изобретения](#invention-details--детали-изобретения) | Names, classification / Названия, классификация |
+| [Applicants & Inventors / Заявители и Изобретатели](#applicants--inventors--заявители-и-изобретатели) | Co-authors, contributions / Соавторы, вклад |
+| [Correspondence Address / Адрес для переписки](#correspondence-address--адрес-для-переписки) | Contact information / Контактная информация |
+| [Examination Timeline / Хронология экспертизы](#examination-timeline--хронология-экспертизы) | Stages, deadlines / Этапы, дедлайны |
+| [Scientific Research / Научная база](#scientific-research-foundation--научная-исследовательская-база) | Papers, references / Статьи, ссылки |
+| [Document Upload Status / Статус загрузки](#document-upload-status--статус-загрузки-документов) | Filed documents / Поданные документы |
+| [Correspondence Flow / Схема переписки](#correspondence-flow--схема-переписки) | Mermaid timeline / Временная шкала |
+| [Translations Index / Индекс переводов](#translations-index--индекс-переводов) | EN/RU translations / Переводы EN/RU |
+| [Related Repositories / Связанные репозитории](#related-repositories--связанные-репозитории) | Ecosystem links / Ссылки экосистемы |
+| [Payment Summary / Сводка по платежам](#payment-summary--сводка-по-платежам) | Fees paid / Оплаченные пошлины |
+| [Data Structure / Структура данных](#data-structure--структура-данных) | Repository file tree / Дерево файлов |
+| [Active Issues / Активные задачи](#active-issues--активные-задачи) | GitHub issues tracker / Трекер задач |
+| [Navigation Index / Навигационный индекс](#navigation-index--навигационный-индекс) | Full document map / Полная карта документа |
+
+---
+
+## Data Structure / Структура данных
+
+```
+Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/
+├── README.md
+├── DOCUMENT_UPLOAD_TRACKER.md
+├── ISSUE_1_COMPLETE.md
+├── archive/
+├── correspondence/
+│   ├── incoming/
+│   └── outgoing/
+├── docs/
+│   ├── DOCUMENT_INDEX_EN_RU.md
+│   ├── SCIENTIFIC_RESEARCH_DATABASE.md
+│   ├── 2024-03-15_ScientificArticle_Banchenko_Mnemonic_Dream_Synchronization_Method.pdf
+│   ├── 2024-08-25_ScientificArticle_Grivtsova_Stress_Management_Lucid_Dreams.pdf
+│   ├── 2025-10-25_ScientificArticle_BCI_NeuralInterfaces_ASRP_ResearchGroup.pdf
+│   ├── abstracts/
+│   │   └── 2026-03-24_Abstract_KZ413554_v1_Original_RU.docx
+│   ├── applications/
+│   │   └── 2026-03-24_Application_KZ413554_v1_Original_RU.pdf
+│   ├── claims/
+│   │   └── 2026-03-24_Claims_KZ413554_v1_Original_RU.docx
+│   ├── descriptions/
+│   │   └── 2026-03-24_Description_KZ413554_v1_Original_RU.docx
+│   └── drawings/
+│       └── 2026-03-24_Figure1_KZ413554_v1.pdf
+├── INBOX/
+├── legal/
+├── payment-receipts/
+│   └── 2025-11-12_Payment_KZ413554_FilingFee_6096.16KZT_EPAY944861.pdf
+└── translations/
+```
+
+---
+
+## Active Issues / Активные задачи
+
+### Open Issues / Открытые задачи
+
+| # | Title / Название | Labels / Метки | Created / Создано |
+|---|-----------------|----------------|-------------------|
+| 17 | INBOX - Document Repository / Репозиторий Документов | EN_RU, inbox | 2026-03-25 |
+| 16 | Payments and Credit Balance / Платежи и Баланс | EN_RU, payments | 2026-03-25 |
+| 15 | Timeline and Deadlines / Временная Шкала и Дедлайны | EN_RU, timeline | 2026-03-25 |
+| 14 | Correspondence Flow / Поток Переписки | EN_RU, correspondence | 2026-03-25 |
+| 13 | Substantive Examination / Экспертиза по Существу | EN_RU, examination | 2026-03-25 |
+| 12 | Application: KZ 413554 - Complete Application Package / Полный Пакет Заявки | application, EN_RU | 2026-03-25 |
+
+### Closed Issues / Закрытые задачи
+
+| # | Title / Название | Labels / Метки | Created / Создано |
+|---|-----------------|----------------|-------------------|
+| 11 | INCOMING - Document Repository / Репозиторий Документов (ASRP.drift) | EN_RU, inbox | 2026-03-25 |
+| 10 | KZ413554 - Payments and Balance / Платежи и Баланс (6,096.16 KZT Paid) | EN_RU, payments | 2026-03-25 |
+| 9 | KZ413554 - Timeline and Deadlines / Временная Шкала и Дедлайны | EN_RU, timeline | 2026-03-25 |
+| 8 | KZ413554 - Correspondence Flow / Поток Переписки (Awaiting Response) | EN_RU, correspondence | 2026-03-25 |
+| 7 | KZ413554 - Substantive Examination / Экспертиза по Существу (Pending) | EN_RU, examination | 2026-03-25 |
+| 6 | KZ413554 - Platform of Neurointegration Isomorphic Resonance / Платформа Нейроинтеграционного Изоморфного Резонанса (Registration Pending) | application, EN_RU | 2026-03-25 |
+| 5 | Payments and Credit Balance / Платежи и Баланс | EN_RU, payments | 2026-03-25 |
+| 4 | Timeline and Deadlines / Временная Шкала и Дедлайны | EN_RU, timeline | 2026-03-25 |
+| 3 | Correspondence Flow / Поток Переписки | EN_RU, correspondence | 2026-03-25 |
+| 2 | Substantive Examination / Экспертиза по Существу | EN_RU, examination | 2026-03-25 |
+| 1 | Application: KZ 413554 - Complete Application Package / Полный Пакет Заявки | documentation, application, EN_RU | 2026-03-25 |
+
+---
+
+## Invention Details / Детали изобретения
 
 ### Names / Названия
 
@@ -42,15 +129,15 @@
 
 ---
 
-## 👥 Applicants & Inventors / Заявители и Изобретатели
+## Applicants & Inventors / Заявители и Изобретатели
 
 **All inventors are equal co-authors / Все изобретатели являются равными соавторами**
 
 | # | Name / ФИО | Country / Страна | BIN-IIN / БИН-ИИН | Email | Role / Роль | Signed / Подписано |
 |---|------------|------------------|-------------------|-------|-------------|-------------------|
-| 1 | **OVSEANNIKOVA VALERIA ALEXANDROVNA / ОВСЯННИКОВА ВАЛЕРИЯ АЛЕКСАНДРОВНА** | 🇲🇩 MD | 001228050911 | valeriaovseannicova@asrp.tech | Inventor / Изобретатель | ⏳ Pending / Ожидается |
-| 2 | **BANCHENKO DENIS YURIEVICH / БАНЧЕНКО ДЕНИС ЮРЬЕВИЧ** | 🇰🇿 KZ | 800622301483 | denisbanchenko@asrp.tech | Applicant, Inventor / Заявитель, Изобретатель | ✅ Signed / Подписано (24.03.2026) |
-| 3 | **KAPUSTIN MYKHAILO MYKHALOVICH / КАПУСТИН МИХАЙЛО МИХАЙЛОВИЧ** | 🇩🇪 DE | 000623050976 | mykhailokapustin@asrp.tech | Applicant, Inventor / Заявитель, Изобретатель | ✅ Signed / Подписано (24.03.2026) |
+| 1 | **OVSEANNIKOVA VALERIA ALEXANDROVNA / ОВСЯННИКОВА ВАЛЕРИЯ АЛЕКСАНДРОВНА** | MD | 001228050911 | valeriaovseannicova@asrp.tech | Inventor / Изобретатель | Pending / Ожидается |
+| 2 | **BANCHENKO DENIS YURIEVICH / БАНЧЕНКО ДЕНИС ЮРЬЕВИЧ** | KZ | 800622301483 | denisbanchenko@asrp.tech | Applicant, Inventor / Заявитель, Изобретатель | Signed / Подписано (24.03.2026) |
+| 3 | **KAPUSTIN MYKHAILO MYKHALOVICH / КАПУСТИН МИХАЙЛО МИХАЙЛОВИЧ** | DE | 000623050976 | mykhailokapustin@asrp.tech | Applicant, Inventor / Заявитель, Изобретатель | Signed / Подписано (24.03.2026) |
 
 **Corporate Contact / Корпоративный контакт:** info@asrp.tech
 
@@ -66,7 +153,7 @@
 
 ---
 
-## 📬 Correspondence Address / Адрес для переписки
+## Correspondence Address / Адрес для переписки
 
 | Field / Поле | Value / Значение |
 |--------------|------------------|
@@ -79,69 +166,69 @@
 
 ---
 
-## 📅 Examination Timeline / Хронология экспертизы
+## Examination Timeline / Хронология экспертизы
 
 | Stage / Этап | Duration / Длительность | Status / Статус | Date / Дата |
 |--------------|------------------------|-----------------|-------------|
-| **1. Preparation / Подготовка** | — | ✅ Complete / Завершено | 24.03.2026 |
-| **2. Registration / Регистрация** | 5 working days / 5 рабочих дней | 🟡 Pending / Ожидается | Expected / Ожидается 29.03.2026 |
-| **3. Formal Examination / Формальная экспертиза** | 2 months / 2 месяца | ⏳ Pending / Ожидается | Expected / Ожидается 24.05.2026 |
-| **4. Substantive Examination / Экспертиза по существу** | 18 months / 18 месяцев | ⏳ Pending / Ожидается | Expected / Ожидается 24.11.2027 |
-| **5. Examination Complete / Экспертиза завершена** | 3 months / 3 месяца | ⏳ Pending / Ожидается | Expected / Ожидается Q1 2028 |
-| **6. Patent Grant / Выдача патента** | 10 working days / 10 рабочих дней | ⏳ Pending / Ожидается | Expected / Ожидается Q1 2028 |
+| **1. Preparation / Подготовка** | — | Complete / Завершено | 24.03.2026 |
+| **2. Registration / Регистрация** | 5 working days / 5 рабочих дней | Pending / Ожидается | Expected / Ожидается 29.03.2026 |
+| **3. Formal Examination / Формальная экспертиза** | 2 months / 2 месяца | Pending / Ожидается | Expected / Ожидается 24.05.2026 |
+| **4. Substantive Examination / Экспертиза по существу** | 18 months / 18 месяцев | Pending / Ожидается | Expected / Ожидается 24.11.2027 |
+| **5. Examination Complete / Экспертиза завершена** | 3 months / 3 месяца | Pending / Ожидается | Expected / Ожидается Q1 2028 |
+| **6. Patent Grant / Выдача патента** | 10 working days / 10 рабочих дней | Pending / Ожидается | Expected / Ожидается Q1 2028 |
 
 ---
 
-## 🔬 Scientific Research Foundation / Научная Исследовательская База
+## Scientific Research Foundation / Научная Исследовательская База
 
 **EN:** This patent is based on extensive scientific research in inter-brain synchronization, BCI systems, and neurointegration technologies.
 
 **RU:** Этот патент основан на обширных научных исследованиях в области межмозговой синхронизации, систем BCI и технологий нейроинтеграции.
 
-### 📚 Key Scientific Papers / Ключевые Научные Статьи
+### Key Scientific Papers / Ключевые Научные Статьи
 
 | # | Paper / Статья | Year / Год | Link / Ссылка | Relevance / Отношение |
 |---|---------------|-----------|--------------|----------------------|
-| 1 | **Banchenko's Mnemonic Dream Synchronization Method** | 2024 | [📄 PDF](docs/2024-03-15_ScientificArticle_Banchenko_Mnemonic_Dream_Synchronization_Method.pdf) | Foundational method / Фундаментальный метод |
-| 2 | **Grivtsova Stress Management Method** | 2024 | [📄 PDF](docs/2024-08-25_ScientificArticle_Grivtsova_Stress_Management_Lucid_Dreams.pdf) | Preparation protocols / Протоколы подготовки |
-| 3 | **BCI and Neural Interfaces Review** | 2025 | [📄 PDF](docs/2025-10-25_ScientificArticle_BCI_NeuralInterfaces_ASRP_ResearchGroup.pdf) | Hardware foundation / Аппаратная основа |
+| 1 | **Banchenko's Mnemonic Dream Synchronization Method** | 2024 | [PDF](docs/2024-03-15_ScientificArticle_Banchenko_Mnemonic_Dream_Synchronization_Method.pdf) | Foundational method / Фундаментальный метод |
+| 2 | **Grivtsova Stress Management Method** | 2024 | [PDF](docs/2024-08-25_ScientificArticle_Grivtsova_Stress_Management_Lucid_Dreams.pdf) | Preparation protocols / Протоколы подготовки |
+| 3 | **BCI and Neural Interfaces Review** | 2025 | [PDF](docs/2025-10-25_ScientificArticle_BCI_NeuralInterfaces_ASRP_ResearchGroup.pdf) | Hardware foundation / Аппаратная основа |
 
-### 🔬 Inter-Brain Synchronization Research / Исследования Межмозговой Синхронизации
+### Inter-Brain Synchronization Research / Исследования Межмозговой Синхронизации
 
 | Category / Категория | Key Studies / Ключевые Исследования | Link / Ссылка |
 |---------------------|-----------------------------------|--------------|
-| **Core Studies / Основные Исследования** | Nature Scientific Reports (2017), NeuroImage (2017), Brain & Cognition (2022) | [📊 Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
-| **Teams & Cooperation / Команды и Сотрудничество** | SCAN (2016), NeuroImage (2019) | [📊 Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
-| **Gaming & Collective Behavior / Игры и Коллективное Поведение** | Brain & Cognition (2022) | [📊 Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
-| **Meditation & Synchrony / Медитация и Синхрония** | Neuroscience Letters (2023) | [📊 Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
-| **Meta-Analyses / Мета-Анализы** | PMC (2022), PubMed (2024) | [📊 Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
+| **Core Studies / Основные Исследования** | Nature Scientific Reports (2017), NeuroImage (2017), Brain & Cognition (2022) | [Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
+| **Teams & Cooperation / Команды и Сотрудничество** | SCAN (2016), NeuroImage (2019) | [Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
+| **Gaming & Collective Behavior / Игры и Коллективное Поведение** | Brain & Cognition (2022) | [Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
+| **Meditation & Synchrony / Медитация и Синхрония** | Neuroscience Letters (2023) | [Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
+| **Meta-Analyses / Мета-Анализы** | PMC (2022), PubMed (2024) | [Database](docs/SCIENTIFIC_RESEARCH_DATABASE.md) |
 
 **Full Database / Полная База:** [`docs/SCIENTIFIC_RESEARCH_DATABASE.md`](docs/SCIENTIFIC_RESEARCH_DATABASE.md)
 
 ---
 
-## 📋 Document Upload Status / Статус загрузки документов
+## Document Upload Status / Статус загрузки документов
 
-### ✅ Application Documents (Submitted 24.03.2026) / Документы заявки (Поданы 24.03.2026)
+### Application Documents (Submitted 24.03.2026) / Документы заявки (Поданы 24.03.2026)
 
 | # | Document / Документ | Pages / Страниц | Language / Язык | Status / Статус | Direct Link / Прямая Ссылка |
 |---|--------------------|-----------------|-----------------|-----------------|----------------------------|
-| 1 | Application Form / Заявление | 4 | RU/KZ / РУ/КЗ | ✅ Filed / Подано | [📄 PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/applications/2026-03-24_Application_KZ413554_v1_Original_RU.pdf) |
-| 2 | Description / Описание | 4 | Russian / Русский | ✅ Filed / Подано | [📄 DOCX](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/descriptions/2026-03-24_Description_KZ413554_v1_Original_RU.docx) |
-| 3 | Claims / Формула | 3 | Russian / Русский | ✅ Filed / Подано | [📄 DOCX](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/claims/2026-03-24_Claims_KZ413554_v1_Original_RU.docx) |
-| 4 | Abstract / Реферат | 1 | Russian / Русский | ✅ Filed / Подано | [📄 DOCX](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/abstracts/2026-03-24_Abstract_KZ413554_v1_Original_RU.docx) |
-| 5 | Drawings / Чертежи | 1 | — / — | ✅ Filed / Подано | [📄 PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/drawings/2026-03-24_Figure1_KZ413554_v1.pdf) |
-| 6 | Filing Fee Receipt / Квитанция пошлины | 1 | — / — | ✅ Paid / Оплачено | [📄 PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/payment-receipts/2025-11-12_Payment_KZ413554_FilingFee_6096.16KZT_EPAY944861.pdf) |
+| 1 | Application Form / Заявление | 4 | RU/KZ / РУ/КЗ | Filed / Подано | [PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/applications/2026-03-24_Application_KZ413554_v1_Original_RU.pdf) |
+| 2 | Description / Описание | 4 | Russian / Русский | Filed / Подано | [DOCX](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/descriptions/2026-03-24_Description_KZ413554_v1_Original_RU.docx) |
+| 3 | Claims / Формула | 3 | Russian / Русский | Filed / Подано | [DOCX](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/claims/2026-03-24_Claims_KZ413554_v1_Original_RU.docx) |
+| 4 | Abstract / Реферат | 1 | Russian / Русский | Filed / Подано | [DOCX](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/abstracts/2026-03-24_Abstract_KZ413554_v1_Original_RU.docx) |
+| 5 | Drawings / Чертежи | 1 | — / — | Filed / Подано | [PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/docs/drawings/2026-03-24_Figure1_KZ413554_v1.pdf) |
+| 6 | Filing Fee Receipt / Квитанция пошлины | 1 | — / — | Paid / Оплачено | [PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/payment-receipts/2025-11-12_Payment_KZ413554_FilingFee_6096.16KZT_EPAY944861.pdf) |
 
 ---
 
-## 📨 Correspondence Flow / Схема переписки
+## Correspondence Flow / Схема переписки
 
 <div align="center">
 
 ### Complete Correspondence History / Полная История Переписки
 
-**🔴 IMPORTANT FOR FOREIGN INVESTORS / ВАЖНО ДЛЯ ИНОСТРАННЫХ ИНВЕСТОРОВ:**
+**IMPORTANT FOR FOREIGN INVESTORS / ВАЖНО ДЛЯ ИНОСТРАННЫХ ИНВЕСТОРОВ:**
 
 *Full English translations of all Kazpatent correspondence will be available in the* [`translations/`](translations/) *folder.*
 
@@ -159,7 +246,7 @@ sequenceDiagram
     A->>K: 2026-03-24: Application Filed<br/>Заявка подана
     Note right of K: Barcode: 3905481
 
-    Note over A,K: ⏳ Registration Pending<br/>⏳ Ожидает регистрации
+    Note over A,K: Registration Pending<br/>Ожидает регистрации
 
     K->>K: Expected 2026-05-24: Formal Exam Query<br/>Запрос ФЭ
     Note right of K: Expected / Ожидается
@@ -167,33 +254,33 @@ sequenceDiagram
     A->>K: Expected 2026-07-24: Response<br/>Ответ
     Note right of K: Expected / Ожидается
 
-    Note over A,K: ⏳ Substantive Examination Pending<br/>⏳ Экспертиза по существу ожидается
+    Note over A,K: Substantive Examination Pending<br/>Экспертиза по существу ожидается
 ```
 
 ---
 
-## 📚 Translations Index / Индекс Переводов
+## Translations Index / Индекс Переводов
 
 <div align="center">
 
-### 📖 All English Translations Available / Все Английские Переводы
+### All English Translations Available / Все Английские Переводы
 
 </div>
 
 | Document Type / Тип Документа | Russian Original / Русский Оригинал | English Translation / Английский Перевод |
 |------------------------------|---------------------|----------------------|
-| **README** | [🇷🇺 RU](README.md) | [🇬🇧 EN](README.md) (Bilingual / Двуязычный) |
-| **Document Upload Tracker** | [🇷🇺 RU](DOCUMENT_UPLOAD_TRACKER.md) | [🇬🇧 EN](DOCUMENT_UPLOAD_TRACKER.md) (Bilingual / Двуязычный) |
-| **Document Index** | [🇷🇺 RU](docs/DOCUMENT_INDEX_EN_RU.md) | [🇬🇧 EN](docs/DOCUMENT_INDEX_EN_RU.md) (Bilingual / Двуязычный) |
-| **Translations Index** | — / — | [🇬🇧 EN](translations/README_TRANSLATIONS.md) |
+| **README** | [RU](README.md) | [EN](README.md) (Bilingual / Двуязычный) |
+| **Document Upload Tracker** | [RU](DOCUMENT_UPLOAD_TRACKER.md) | [EN](DOCUMENT_UPLOAD_TRACKER.md) (Bilingual / Двуязычный) |
+| **Document Index** | [RU](docs/DOCUMENT_INDEX_EN_RU.md) | [EN](docs/DOCUMENT_INDEX_EN_RU.md) (Bilingual / Двуязычный) |
+| **Translations Index** | — / — | [EN](translations/README_TRANSLATIONS.md) |
 
 ---
 
-## 🔗 Related Repositories / Связанные репозитории
+## Related Repositories / Связанные репозитории
 
 <div align="center">
 
-### 🧠 ASRP Neurointegration Platform Ecosystem / Экосистема Платформы Нейроинтеграции ASRP
+### ASRP Neurointegration Platform Ecosystem / Экосистема Платформы Нейроинтеграции ASRP
 
 </div>
 
@@ -222,7 +309,7 @@ sequenceDiagram
 
 | Repository / Репозиторий | Application / Заявка | Relationship / Отношение | Status / Статус |
 |-------------------------|---------------------|-------------------------|-----------------|
-| **🫁 Inspira-X** | KZ 2025/0914.1 | **⊂ PART OF DRIFT SYSTEM** / **⊂ ЧАСТЬ СИСТЕМЫ DRIFT** | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) |
+| **Inspira-X** | KZ 2025/0914.1 | **⊂ PART OF DRIFT SYSTEM** / **⊂ ЧАСТЬ СИСТЕМЫ DRIFT** | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) |
 | **Fractal HFS** | KZ 2025/1095.1 | Related hyperbolic field technology / Связанная технология гиперболических полей | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
 | **Biophotonic** | KZ 2025/1097.1 | Related optical neurodiagnostic / Связанная оптическая нейродиагностика | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent) |
 | **GFS** | KZ 2024/412106.1 | Related forecasting system / Связанная система прогнозирования | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Global_Forecasting_System_Patent) |
@@ -230,7 +317,7 @@ sequenceDiagram
 
 <div align="center">
 
-### 📚 Scientific Research Repositories / Научные Исследовательские Репозитории
+### Scientific Research Repositories / Научные Исследовательские Репозитории
 
 </div>
 
@@ -243,12 +330,33 @@ sequenceDiagram
 
 ---
 
-## 💰 Payment Summary / Сводка по платежам
+## Payment Summary / Сводка по платежам
 
 | # | Date / Дата | Payment Type / Тип Платежа | Amount / Сумма | Status / Статус | Direct Link / Прямая Ссылка |
 |---|-------------|---------------------------|----------------|-----------------|----------------------------|
-| 1 | 12.11.2025 | Filing Fee / Пошлина за Подачу | 6,096.16 KZT | ✅ Paid / Оплачено | [📄 PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/payment-receipts/2025-11-12_Payment_KZ413554_FilingFee_6096.16KZT_EPAY944861.pdf) |
-| **TOTAL / ВСЕГО** | — | **Total Paid / Всего Оплачено** | **6,096.16 KZT** | ✅ **Complete / Завершено** | — |
+| 1 | 12.11.2025 | Filing Fee / Пошлина за Подачу | 6,096.16 KZT | Paid / Оплачено | [PDF](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent/blob/main/payment-receipts/2025-11-12_Payment_KZ413554_FilingFee_6096.16KZT_EPAY944861.pdf) |
+| **TOTAL / ВСЕГО** | — | **Total Paid / Всего Оплачено** | **6,096.16 KZT** | **Complete / Завершено** | — |
+
+---
+
+## Navigation Index / Навигационный индекс
+
+| # | Section / Раздел | Anchor / Якорь |
+|---|-----------------|----------------|
+| 1 | Repository Overview / Обзор репозитория | [Go / Перейти](#repository-overview--обзор-репозитория) |
+| 2 | Quick Navigation / Быстрая навигация | [Go / Перейти](#quick-navigation--быстрая-навигация) |
+| 3 | Data Structure / Структура данных | [Go / Перейти](#data-structure--структура-данных) |
+| 4 | Active Issues / Активные задачи | [Go / Перейти](#active-issues--активные-задачи) |
+| 5 | Invention Details / Детали изобретения | [Go / Перейти](#invention-details--детали-изобретения) |
+| 6 | Applicants & Inventors / Заявители и Изобретатели | [Go / Перейти](#applicants--inventors--заявители-и-изобретатели) |
+| 7 | Correspondence Address / Адрес для переписки | [Go / Перейти](#correspondence-address--адрес-для-переписки) |
+| 8 | Examination Timeline / Хронология экспертизы | [Go / Перейти](#examination-timeline--хронология-экспертизы) |
+| 9 | Scientific Research / Научная база | [Go / Перейти](#scientific-research-foundation--научная-исследовательская-база) |
+| 10 | Document Upload Status / Статус загрузки | [Go / Перейти](#document-upload-status--статус-загрузки-документов) |
+| 11 | Correspondence Flow / Схема переписки | [Go / Перейти](#correspondence-flow--схема-переписки) |
+| 12 | Translations Index / Индекс переводов | [Go / Перейти](#translations-index--индекс-переводов) |
+| 13 | Related Repositories / Связанные репозитории | [Go / Перейти](#related-repositories--связанные-репозитории) |
+| 14 | Payment Summary / Сводка по платежам | [Go / Перейти](#payment-summary--сводка-по-платежам) |
 
 ---
 
@@ -257,6 +365,6 @@ sequenceDiagram
 **Last Updated / Последнее обновление:** 25 March 2026  
 **Repository / Репозиторий:** `Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent`  
 **Standard / Стандарт:** UNIFIED_STRUCTURE_STANDARD.md v4.2  
-**Status / Статус:** 🟡 Registration Pending / Ожидает регистрации
+**Status / Статус:** Registration Pending / Ожидает регистрации
 
 </div>
